@@ -1,0 +1,20 @@
+Mental-Health-in-Tech-Professionals
+"This repository contains a Jupyter Notebook analyzing mental health survey data. It includes data cleaning, visualization, and insights using pandas and matplotlib."
+
+🧠 Mental Health in Tech Survey
+
+🎯 Objective
+The objective of this project is to analyze mental health survey data collected from employees in the tech industry.
+It aims to uncover trends in mental health diagnosis, discussions at work, and the availability of organizational support.
+This will help raise awareness and guide better workplace policies.
+
+📊 What’s Included
+Data cleaning and gender normalization
+Exploratory data analysis (EDA)
+Visualizations and insights
+Jupyter Notebook with step-by-step code
+🛠 Tools Used
+Python
+Pandas
+Matplotlib / Seaborn
+Jupyter Notebook
